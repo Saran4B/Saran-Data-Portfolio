@@ -7,11 +7,13 @@ I am a hardworking and motivated Data Analyst who has acquired extensive knowled
 
 ## Portfolio 
 - R Programming                            
-Machine Learning Models with R Programming such as Linear  Regression, Logistic Regression, K-mean clustering, K-nearest neighbor, Decision Tree, and Random Forest. 
-Analyze descriptive statistics and build a report with R markdown. 
-Visualize the datasets and plot them with the ggplot2 library such as scatter plot, bar chart, box plot, and histogram. 
+-- Machine Learning Models with R Programming such as Linear  Regression, Logistic Regression, K-mean clustering, K-nearest neighbor, Decision Tree, and Random Forest. 
+-- Analyze descriptive statistics and build a report with R markdown. 
+-- Visualize the datasets and plot them with the ggplot2 library such as scatter plot, bar chart, box plot, and histogram.
+
 - Python                       
-Using Pandas and Numpy libraries for data analytics, cleansing, and visualizing data. 
-Web scraping project about stock pricing history and comparing them with data from finance library in Python. 
+-- Using Pandas and Numpy libraries for data analytics, cleansing, and visualizing data. 
+Web scraping project about stock pricing history and comparing them with data from finance library in Python.
+
 - SQL                         
-Create a database in My SQL, cleanse and analyze data to basic descriptive statistics.
+-- Create a database in My SQL, cleanse and analyze data to basic descriptive statistics.
