@@ -1,8 +1,5 @@
 library(tidyverse)
 
-head(mtcars)
-View(mtcars)
-
 # build chart 
 # discrete = ไม่ต่อเนื่อง
 # continuous =่ ต่อเนื่อง
